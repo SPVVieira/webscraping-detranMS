@@ -1,0 +1,28 @@
+{
+  "name": "webscraping-detranms",
+  "version": "1.0.0",
+  "description": "A robotic automation for data search in Detran MS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPVVieira/webscraping-detranMS.git"
+  },
+  "keywords": [
+    "Node",
+    "RPA",
+    "web-scraping",
+    "detranMS"
+  ],
+  "author": "Victor Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPVVieira/webscraping-detranMS/issues"
+  },
+  "homepage": "https://github.com/SPVVieira/webscraping-detranMS#readme",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
